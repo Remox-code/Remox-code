@@ -12,8 +12,8 @@ href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="n
 href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a
 href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=python" alt="python" width="40" height="40"/> </a> <a
 href="https://developer.mozilla.org/en-US/docs/Web/c#" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c#" alt="c#" width="40" height="40"/> </a> <a
-href="https://developer.mozilla.org/en-US/docs/Web/c++" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c++" alt="c++" width="40" height="40"/> </a> <a
-href="https://developer.mozilla.org/en-US/docs/Web/react js" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react js" alt="react js" width="40" height="40"/> </a> <a
+href="https://developer.mozilla.org/en-US/docs/Web/cpp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cpp" width="40" height="40"/> </a> <a
+href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a
 
 
 
