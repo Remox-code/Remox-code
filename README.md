@@ -1,4 +1,5 @@
-<h3 align="left">Hey There!</h3>
+<h3 align="left">Full‑Stack Developer | React + (PHP/Laravel or Node) | Open to collaboration
+</h3>
 <p align="left">
 
 <a href="https://linkedin.com/in/mohammad Aghajafari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad Aghajafari" height="30" width="40" /></a>
